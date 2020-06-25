@@ -1,7 +1,7 @@
 # Guess The Number
 Guess the Number is a simple game made using Python. Your Enemy, the CPU, trys to out smart you letting you learn its pattern while in the end mixing it up and letting you lose.
 # How does it work
-The Computer randomizes a area where the number will be randomized this.
+The Computer randomizes a area where the number will be randomized in.
 ```python
 while foundArea == False:
 
